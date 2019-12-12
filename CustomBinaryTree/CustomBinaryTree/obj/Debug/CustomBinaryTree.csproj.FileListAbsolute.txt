@@ -1,0 +1,6 @@
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\bin\Debug\CustomBinaryTree.exe.config
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\bin\Debug\CustomBinaryTree.exe
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\bin\Debug\CustomBinaryTree.pdb
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\obj\Debug\CustomBinaryTree.csprojAssemblyReference.cache
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\obj\Debug\CustomBinaryTree.exe
+C:\Users\bryce\Desktop\CSharp\BinarySearchTree\CustomBinaryTree\CustomBinaryTree\obj\Debug\CustomBinaryTree.pdb
